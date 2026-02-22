@@ -50,6 +50,5 @@ Open **http://localhost:5173** in your browser.
 ## 📁 Project Structure
 - `/frontend`: Vite + React UI components and Studio styles.
 - `/backend`: Flask server, color analysis logic, and styling engine.
-- `RUN_GUIDE.md`: Detailed step-by-step instructions.
 
 ---
